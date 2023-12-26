@@ -21,7 +21,8 @@ Foi implementado o banco de dados definidos na Etapas 1 e 2 em um SGBD relaciona
 - 3.9: Exemplo de procedimentos/funções
 - 3.10: Exemplo de triggers
    
-## 📚 Bonus: Foi criado um exemplo de interface Web com o usuário.
+## 📚 Bonus: 
+Foi criado um exemplo de interface Web com o usuário.
 
 
 ## Desenvolvedores
